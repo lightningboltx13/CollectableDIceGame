@@ -1,0 +1,28 @@
+Servent:U:Sacrifice,Sacrifice,Save Face,Save Face,Blank,Blank
+Academic:R:Magic,Sword,Barrier,Knockback,Reroll,Blank
+Mana Forge:C:Magic,Magic,Shield,Reroll,Blank,Blank
+The King:L:Diamond,Clover,Barrier,Save Face,Magic,Clock
+Spell Spitter:U:Magic,Magic,Bow,Bow,Blank,Blank
+The Fool:U:Clover,Hammer,Return,Reroll,Blank,Blank
+High Elf:R:Magic,Magic,Bow,Return,Reroll,Blank
+Lore Master:R:Staff,Magic,Clock,Shield,Reroll,Blank
+Jackalope:U:Return,Fangs,Lance,Knockback,Blank,Blank
+Arcane Golem:R:Hammer,Magic,Magic,Barrier,Barrier,Blank
+Dire Hawk:U:Pick Up,Pick Up,Dagger,Fangs,Blank,Blank
+Lancer:R:Lance,Lance,Shield,Shield,Knockback,Blank
+The Lich:R:Staff,Magic,Shovel,Skull,Diamond,Blank
+Ghoul:C:Sacrifice,Sacrifice,Drain,Drain,Blank,Blank
+Ooze:C:Dagger,Dagger,Shield,Shield,Blank,Blank
+Grave Digger:R:Shovel,Shovel,Sword,Save Face,Reroll,Blank
+Phantom:C:Magic,Bow,Dagger,Return,Blank,Blank
+Skeleton:C:Sword,Sword,Skull,Skull,Blank,Blank
+Goblin:C:Dagger,Dagger,Pick Up,Sacrifice,Blank,Blank
+Witch Doctor:R:Shovel,Magic,Magic,Clover,Clover,Blank
+Vampire:R:Drain,Fangs,Save Face,Shovel,Skull,Blank
+Thing Beneath:L:Bow,Bow,Shovel,Shovel,Return,Diamond
+Druid:U:Fangs,Staff,Track,Clover,Blank,Blank
+Ranger:U:Bow,Bow,Dagger,Track,Blank,Blank
+Dire Wolf:C:Fangs,Fangs,Track,Reroll,Blank,Blank
+Dire Bear:R:Fangs,Fangs,Knockback,Shield,Shield,Blank
+Iron Golem:R:Hammer,Pick Axe,Pick Axe,Shield,Shield,Blank
+Bone Golem:R:Hammer,Drain,Drain,Skull,Skull,Blank
