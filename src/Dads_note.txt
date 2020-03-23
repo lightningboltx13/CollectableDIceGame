@@ -8,9 +8,9 @@ I still need to do the following:
   Lance
   Magic
   Pick Axe
-  Pick Up
+  * Pick Up
   Reroll
   Sacrifice
   Save Face
-  Select
-  Shovel
+  * Select
+  * Shovel
