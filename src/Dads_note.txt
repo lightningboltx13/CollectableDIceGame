@@ -2,11 +2,11 @@ Hey Jami,
 
 I still need to do the following:
 
-  Dagger
+  * Dagger
   Drain
-  Knockback
+  * Knockback
   Lance
-  Magic
+  * Magic
   Pick Axe
   * Pick Up
   Reroll
