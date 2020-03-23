@@ -1,1 +1,16 @@
-Hey Jami
+Hey Jami,
+
+I still need to do the following:
+
+  Dagger
+  Drain
+  Knockback
+  Lance
+  Magic
+  Pick Axe
+  Pick Up
+  Reroll
+  Sacrifice
+  Save Face
+  Select
+  Shovel
