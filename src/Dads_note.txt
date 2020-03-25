@@ -3,7 +3,7 @@ Hey Jami,
 I still need to do the following:
 
   * Dagger
-  Drain
+  * Drain
   * Knockback
   * Lance
   * Magic
@@ -11,6 +11,6 @@ I still need to do the following:
   * Pick Up
   * Reroll
   Sacrifice
-  Save Face
+  * Save Face
   * Select
   * Shovel
