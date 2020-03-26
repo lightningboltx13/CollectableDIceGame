@@ -3,14 +3,16 @@ Hey Jami,
 I still need to do the following:
 
   * Dagger
-  * Drain
+  @ Drain
   * Knockback
   * Lance
   * Magic
   * Pick Axe
   * Pick Up
-  * Reroll
+  @ Reroll
   Sacrifice
   * Save Face
   * Select
   * Shovel
+
+  @ redone.
