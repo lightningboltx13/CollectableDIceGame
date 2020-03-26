@@ -10,7 +10,7 @@ I still need to do the following:
   * Pick Axe
   * Pick Up
   @ Reroll
-  Sacrifice
+  * Sacrifice
   * Save Face
   * Select
   * Shovel
